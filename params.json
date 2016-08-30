@@ -1,0 +1,6 @@
+{
+  "name": "Vcf",
+  "tagline": "Experiments in (g)VCF parsing",
+  "body": "vcf\r\n===\r\n\r\nExperiments in (g)VCF parsing\r\n\r\nMerging handles the case where samples overlap, applying simple criteria for determining genotype iwhere there are clashes.\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
